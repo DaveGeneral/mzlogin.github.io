@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://davegeneral.github.io/
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 码尾辫儿
+subtitle: "沧桑过往老码识途"
+description: "Will的个人博客"
+keywords: 码农, Will, davegeneral, 码尾辫儿
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Will
+organization: SDU_IRLAab
+organization_url: https://davegeneral.github.io/
+github_username: DaveGeneral
+location: QingDao, China
+email: 1903404743@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: DaveGeneral/DaveGeneral.github.io
 
 # ---------------- #
 #      Comments    #
