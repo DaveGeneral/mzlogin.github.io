@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: IRlab 信息检索实验室博客
+keywords: SDU，IRLab
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+山东大学信息检索实验室成立于2004年，是一个年轻、富有朝气的研究团队。
+实验室在博士生导师马军教授的带领下，逐渐发展壮大，形成了稳定的研究方向梯队，
+并在国内信息检索、多媒体计算、大数据处理、社会计算、健康计算、
+自然语言处理等领域具有了较高的知名度。
 
 ## 联系
 
