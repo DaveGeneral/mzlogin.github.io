@@ -8,6 +8,14 @@ keywords: Smart TV, Recommender System, Group Meeting
 
 请开始你的表演：
 
+徐韶
+
+姜国运
+
+李军
+
+刘金环
+
 出差在外，需要调试局域网内的两台 Android 设备之间通过 TCP 通信的情况，可手边又不是随时有多台可用的设备，于是想在笔记本上同时跑两台 Android 模拟器来构造调试环境，但是发现它俩的 IP 地址竟然都是 10.0.2.15，场面一度十分尴尬……
 
 ![](/images/posts/android/ip-address.png)
