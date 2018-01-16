@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Will
 organization: SDU_IRLab
-organization_url: https://davegeneral.github.io/
+organization_url: http://ir.sdu.edu.cn/
 github_username: DaveGeneral
 location: QingDao, China
 email: 1903404743@qq.com
@@ -109,4 +109,4 @@ lazy_load_disqus : false
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-112529435-1
